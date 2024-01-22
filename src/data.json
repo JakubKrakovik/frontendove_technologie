@@ -1,0 +1,142 @@
+{
+  "zoznam_kava_produktov": [
+    {
+      "id": 1,
+      "nazov": "Colombia Excelso",
+      "hmotnost": "250g",
+      "profil": "Horká čokoláda,Červený pomaranč, kakao",
+      "popis": "Káva s plnou chuťou čokolády a tónmi červeného pomaranča, ktorý mu dodáva výnimočnú  komplexnosť, tak typickú pre Kolumbiu. Vaša najobľúbenejšia káva!",
+      "image": "../kava_1.png",
+      "krajina": "Colombia Excelso La Gabriela",
+      "cena": "12,5€"
+    },
+    {
+      "id": 2,
+      "nazov": "Brazil",
+      "hmotnost": "250g",
+      "profil": "Karamel,Lieskový oriešok, med",
+      "popis": "Typický brazílsky charakter s tónmi orieškov a kakaa, s výraznou sladkosťou karamelu, bez acidity.",
+      "image": "../brazil.png",
+      "krajina": "Brazil Cerrado Mineiro",
+      "cena": "8,50€"
+    },
+    {
+      "id": 3,
+      "nazov": "India",
+      "hmotnost": "250g",
+      "profil": "Nugát, Kakao, lieskovce",
+      "popis": "Výraznejšia a korenistá chuť bez acidity s plným telom a sladkosťou nugátu.",
+      "image": "../indi.png",
+      "krajina": "India Plantation A Bababudangiri",
+      "cena": "30,00€"
+    },
+    {
+      "id": 4,
+      "nazov": "Honduras",
+      "hmotnost": "250g",
+      "profil": "čokoláda,karamel, lieskovec",
+      "popis": "Medium+ pražená káva vhodná prevažne na prípravu espressa s výraznejšími čokoládovými tónmi bez acidity. Chuť je zároveň plná so sladkosťou karamelu.",
+      "image": "../hond.png",
+      "krajina": "Colombia Excelso La Gabriela",
+      "cena": "15,5€"
+    },
+    {
+      "id": 5,
+      "nazov": "Panama",
+      "hmotnost": "250g",
+      "profil": "Nugát, Bobulové ovocie, karamel",
+      "popis": "Vyvážená a čistá šálka kávy pre dokonalé espresso. Sladkosť nugátu a karamelu dopĺňa jemná ovocnosť bobuľového ovocia, hrušky a kakaa.",
+      "image": "../pana.png",
+      "krajina": "Panama La Jungla",
+      "cena": "12.5€"
+    },
+    {
+      "id": 6,
+      "nazov": "Peru",
+      "hmotnost": "500g",
+      "profil": "Čučoriedky, tabak",
+      "popis": "Tmavé praženie tejto kávy nám zvýrazňuje chuť horkej čokolády, tabaku a jemná dochuť sladkej čučoriedky. Káva je úplne bez acidity. Je vhodná primárne na prípravu pravého talianského espressa.",
+      "image": "../peru.png",
+      "krajina": "Peru San Martin",
+      "cena": "14,5€"
+    },
+    {
+      "id": 6,
+      "nazov": "Street Blend",
+      "hmotnost": "500g",
+      "profil": "pražené oriešky, figy",
+      "popis": "Vyvážená a plná chuť bez acidity, s bohatou krémou a arómou kvalitnej horkej čokolády. Ideálna káva na prípravu kvalitného espressa, ktorá vás neomrzí. Náš \"bestseller\"! :)",
+      "image": "../strit.png",
+      "krajina": "Strett Blend - 80% Arabica 20% Robusta",
+      "cena": "14,9€"
+    },
+    {
+      "id": 6,
+      "nazov": "GO! Blend",
+      "hmotnost": "250g",
+      "profil": "karamel, tabak",
+      "popis": "Plná výrazná chuť bez kyslosti, bohatá oriešková crema a dlhá dochuť kvalitnej horkej čokolády. Náš jediný \"dark roast\" blend.  ",
+      "image": "../go-blend.png",
+      "krajina": "GO! Blend - 90% Arabica 10% Robusta ",
+      "cena": "15,5€"
+    },
+    {
+      "id": 6,
+      "nazov": "Dominikánska republika",
+      "hmotnost": "250g",
+      "profil": "Kakao, Mandle, kvety",
+      "popis": "Delikátna krémová chuť s jemnou ovocnosťou a  jemne kvetinovo - orieškovou arómou.",
+      "image": "../domi.png",
+      "krajina": "DOMINIKÁNSKA REPUBLIKA, BARAHONA AA",
+      "cena": "12,5€"
+    },
+    {
+      "id": 7,
+      "nazov": " Super akcia Kavovy set",
+      "hmotnost": "1kg",
+      "profil": "Rôzne chute pre degustáciu",
+      "popis": "Štyri druhy plantážnych káv z rôznych kútov sveta. 4x 250g",
+      "image": "../balik_akcia.jpg",
+      "krajina": "Brazília, Colombia, Dominikánska republika, Ethiopia",
+      "cena": "120,5€"
+    }
+  ],
+  "zoznam_caj_produktov": [
+    {
+      "id": 1,
+      "nazov": "Ceylón - čierny čaj",
+      "hmotnost": "100g",
+      "popis": "100% oxidovaný celolistový čaj zo Srí Lanky z pohoria Adams Peak, príjemná ovocno-kvetinová chuť",
+      "image": "../caj1.png",
+      "zlozenie": "čierny čaj",
+      "cena": "120,5€"
+    },
+    {
+      "id": 2,
+      "nazov": "Dračia studňa - zelený čaj",
+      "hmotnost": "100g",
+      "popis": "Najslávnejší čínsky zelený čaj, jemná chuť",
+      "image": "../caj2.png",
+      "zlozenie": "zelený čaj",
+      "cena": "10,5€"
+    },
+    {
+      "id": 3,
+      "nazov": "Jahoda * Ibištek - ovocný čaj",
+      "hmotnost": "100g",
+      "popis": "Aromatizovaný ovocný čaj s dominantnou arómou jahôd",
+      "image": "../caj3.png",
+      "zlozenie": "jahody, maliny, ibištek, jablko, baza, nechtík, šípky, nevädza, prírodná aróma",
+      "cena": "6,5€"
+    },
+    {
+      "id": 4,
+      "nazov": "Lipa * Baza * Zázvor - bylinný čaj",
+      "hmotnost": "100g",
+      "popis": "Čaj z tradičných ovocných byliniek",
+      "image": "../caj4.png",
+      "zlozenie": "lipa, baza, medovka, zázvor, nechtík, nevädza",
+      "cena": "120,5€"
+    }
+  ]
+}
